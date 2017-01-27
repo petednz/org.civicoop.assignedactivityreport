@@ -1,3 +1,3 @@
 # Assigned Activity Report
 
-Report to show acctivities assigned to the current user
+Report to show activities assigned to the current user
